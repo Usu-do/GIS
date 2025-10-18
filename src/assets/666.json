@@ -1,0 +1,56 @@
+{
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "EPSG:4547"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [113.218304, 23.930369],
+          [113.826422, 23.091139],
+          [114.224738, 23.074356]
+        ]
+      },
+      "properties": {
+        "imgName": "箭头1"
+      },
+      "id": "LineString.1"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [113.707839, 24.133092],
+          [114.179129, 23.685567],
+          [114.70211, 23.877553]
+        ]
+      },
+      "properties": {
+        "imgName": "箭头5"
+      },
+      "id": "LineString.2"
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [113.947836, 24.44559],
+          [114.984227, 24.209499],
+          [115.525557, 24.546637]
+        ]
+      },
+      "properties": {
+        "imgName": "箭头6"
+      },
+      "id": "LineString.3"
+    }
+  ]
+}

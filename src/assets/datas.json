@@ -1,0 +1,233 @@
+[
+  [],
+  [],
+  [],
+  [],
+  [
+    {
+      "disposed": false,
+      "pendingRemovals_": {},
+      "dispatching_": {},
+      "listeners_": {
+        "change:geometry": [null]
+      },
+      "revision_": 2,
+      "ol_uid": "71915",
+      "values_": {
+        "geometry": {
+          "disposed": false,
+          "pendingRemovals_": null,
+          "dispatching_": null,
+          "listeners_": {
+            "change": [null]
+          },
+          "revision_": 0,
+          "ol_uid": "71916",
+          "values_": null,
+          "extent_": [null, null, null, null],
+          "extentRevision_": -1,
+          "simplifiedGeometryMaxMinSquaredTolerance": 0,
+          "simplifiedGeometryRevision": 0,
+          "layout": "XY",
+          "stride": 2,
+          "endss_": [[8]],
+          "flatInteriorPointsRevision_": -1,
+          "flatInteriorPoints_": null,
+          "maxDelta_": -1,
+          "maxDeltaRevision_": -1,
+          "orientedRevision_": -1,
+          "orientedFlatCoordinates_": null,
+          "flatCoordinates": [
+            386079.4491, 2662959.4344, 458856.1295, 2503354.1645, 386079.4491,
+            2662959.4344, 386079.4491, 2662959.4344
+          ]
+        },
+        "imgName": "箭头1"
+      },
+      "id_": "LineString.1",
+      "geometryName_": "geometry",
+      "style_": null,
+      "geometryChangeKey_": {
+        "target": {
+          "disposed": false,
+          "pendingRemovals_": null,
+          "dispatching_": null,
+          "listeners_": {
+            "change": [null]
+          },
+          "revision_": 0,
+          "ol_uid": "71916",
+          "values_": null,
+          "extent_": [null, null, null, null],
+          "extentRevision_": -1,
+          "simplifiedGeometryMaxMinSquaredTolerance": 0,
+          "simplifiedGeometryRevision": 0,
+          "layout": "XY",
+          "stride": 2,
+          "endss_": [[8]],
+          "flatInteriorPointsRevision_": -1,
+          "flatInteriorPoints_": null,
+          "maxDelta_": -1,
+          "maxDeltaRevision_": -1,
+          "orientedRevision_": -1,
+          "orientedFlatCoordinates_": null,
+          "flatCoordinates": [
+            386079.4491, 2662959.4344, 458856.1295, 2503354.1645, 386079.4491,
+            2662959.4344, 386079.4491, 2662959.4344
+          ]
+        },
+        "type": "change"
+      }
+    },
+    {
+      "disposed": false,
+      "pendingRemovals_": {},
+      "dispatching_": {},
+      "listeners_": {
+        "change:geometry": [null]
+      },
+      "revision_": 2,
+      "ol_uid": "71917",
+      "values_": {
+        "geometry": {
+          "disposed": false,
+          "pendingRemovals_": null,
+          "dispatching_": null,
+          "listeners_": {
+            "change": [null]
+          },
+          "revision_": 0,
+          "ol_uid": "71918",
+          "values_": null,
+          "extent_": [null, null, null, null],
+          "extentRevision_": -1,
+          "simplifiedGeometryMaxMinSquaredTolerance": 0,
+          "simplifiedGeometryRevision": 0,
+          "layout": "XY",
+          "stride": 2,
+          "endss_": [[8]],
+          "flatInteriorPointsRevision_": -1,
+          "flatInteriorPoints_": null,
+          "maxDelta_": -1,
+          "maxDeltaRevision_": -1,
+          "orientedRevision_": -1,
+          "orientedFlatCoordinates_": null,
+          "flatCoordinates": [
+            431157.5483, 2665130.9171, 516425.7596, 2494668.1591, 431157.5483,
+            2665130.9171, 431157.5483, 2665130.9171
+          ]
+        },
+        "imgName": "箭头5"
+      },
+      "id_": "LineString.2",
+      "geometryName_": "geometry",
+      "style_": null,
+      "geometryChangeKey_": {
+        "target": {
+          "disposed": false,
+          "pendingRemovals_": null,
+          "dispatching_": null,
+          "listeners_": {
+            "change": [null]
+          },
+          "revision_": 0,
+          "ol_uid": "71918",
+          "values_": null,
+          "extent_": [null, null, null, null],
+          "extentRevision_": -1,
+          "simplifiedGeometryMaxMinSquaredTolerance": 0,
+          "simplifiedGeometryRevision": 0,
+          "layout": "XY",
+          "stride": 2,
+          "endss_": [[8]],
+          "flatInteriorPointsRevision_": -1,
+          "flatInteriorPoints_": null,
+          "maxDelta_": -1,
+          "maxDeltaRevision_": -1,
+          "orientedRevision_": -1,
+          "orientedFlatCoordinates_": null,
+          "flatCoordinates": [
+            431157.5483, 2665130.9171, 516425.7596, 2494668.1591, 431157.5483,
+            2665130.9171, 431157.5483, 2665130.9171
+          ]
+        },
+        "type": "change"
+      }
+    },
+    {
+      "disposed": false,
+      "pendingRemovals_": {},
+      "dispatching_": {},
+      "listeners_": {
+        "change:geometry": [null]
+      },
+      "revision_": 2,
+      "ol_uid": "71919",
+      "values_": {
+        "geometry": {
+          "disposed": false,
+          "pendingRemovals_": null,
+          "dispatching_": null,
+          "listeners_": {
+            "change": [null]
+          },
+          "revision_": 0,
+          "ol_uid": "71920",
+          "values_": null,
+          "extent_": [null, null, null, null],
+          "extentRevision_": -1,
+          "simplifiedGeometryMaxMinSquaredTolerance": 0,
+          "simplifiedGeometryRevision": 0,
+          "layout": "XY",
+          "stride": 2,
+          "endss_": [[8]],
+          "flatInteriorPointsRevision_": -1,
+          "flatInteriorPoints_": null,
+          "maxDelta_": -1,
+          "maxDeltaRevision_": -1,
+          "orientedRevision_": -1,
+          "orientedFlatCoordinates_": null,
+          "flatCoordinates": [
+            521313.7467, 2642330.1763, 577797.1616, 2454495.3888, 521313.7467,
+            2642330.1763, 521313.7467, 2642330.1763
+          ]
+        },
+        "imgName": "箭头6"
+      },
+      "id_": "LineString.3",
+      "geometryName_": "geometry",
+      "style_": null,
+      "geometryChangeKey_": {
+        "target": {
+          "disposed": false,
+          "pendingRemovals_": null,
+          "dispatching_": null,
+          "listeners_": {
+            "change": [null]
+          },
+          "revision_": 0,
+          "ol_uid": "71920",
+          "values_": null,
+          "extent_": [null, null, null, null],
+          "extentRevision_": -1,
+          "simplifiedGeometryMaxMinSquaredTolerance": 0,
+          "simplifiedGeometryRevision": 0,
+          "layout": "XY",
+          "stride": 2,
+          "endss_": [[8]],
+          "flatInteriorPointsRevision_": -1,
+          "flatInteriorPoints_": null,
+          "maxDelta_": -1,
+          "maxDeltaRevision_": -1,
+          "orientedRevision_": -1,
+          "orientedFlatCoordinates_": null,
+          "flatCoordinates": [
+            521313.7467, 2642330.1763, 577797.1616, 2454495.3888, 521313.7467,
+            2642330.1763, 521313.7467, 2642330.1763
+          ]
+        },
+        "type": "change"
+      }
+    }
+  ]
+]
